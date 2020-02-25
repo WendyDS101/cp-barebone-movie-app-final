@@ -3,7 +3,7 @@ from django.contrib import messages
 from airtable import Airtable
 import os
 
-IRTABLE_MOVIESTABLE_BASE_ID="appO2JR9vDnEYY8gD"
+AIRTABLE_MOVIESTABLE_BASE_ID="appO2JR9vDnEYY8gD"
 AIRTABLE_API_KEY="keyu0cX6S05dseB4G"
 
 
